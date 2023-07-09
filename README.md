@@ -1,2 +1,24 @@
-# Whispers-of-Magic
-Jeux à choix aux multiples scénarios, allez-vous sombrer dans les ténèbres ou les vaincre grâce à la lumière ?
+# whispers-of-magic
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
